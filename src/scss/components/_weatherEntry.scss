@@ -1,0 +1,9 @@
+.forecast-column{
+  background: $column-bg;
+  color: $font-color;
+  border: 3px solid $border-color;
+  font-weight: bold;
+  .weather-detail{
+    border-bottom:3px solid $border-color;
+  }
+}
